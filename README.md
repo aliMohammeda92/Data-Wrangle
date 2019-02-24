@@ -1,4 +1,4 @@
-Introduction
+- Introduction
 
 Real-world data rarely comes clean. Using Python and its libraries, you will gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. This is called data wrangling. You will document your wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python (and its libraries) and/or SQL.
 
@@ -7,7 +7,7 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 
 
 
-Project Details
+- Project Details
 
 
 Your tasks in this project are as follows:
@@ -30,7 +30,7 @@ Each tweet's retweet count and favorite (i.e. "like") count at minimum, and any 
 Assessing Data for this Project
 After gathering each of the above pieces of data, assess them visually and programmatically for quality and tidiness issues. Detect and document at least eight (8) quality issues and two (2) tidiness issues in your wrangle_act.ipynb Jupyter Notebook. To meet specifications, the issues that satisfy the below mentioned Key Points must be assessed.
 
-Key Points
+- Key Points
 
 
 Key points to keep in mind when data wrangling for this project:
@@ -45,7 +45,7 @@ Clean each of the issues you documented while assessing. Perform this cleaning i
 
 
 
-Storing, Analyzing, and Visualizing Data for this Project
+- Storing, Analyzing, and Visualizing Data for this Project
 
 
 
